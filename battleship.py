@@ -1,3 +1,6 @@
+#delapena
+#badayos
+
 import random
 import os
 # dictionary for ships:
